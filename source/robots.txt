@@ -5,7 +5,8 @@ Allow: /categories/
 Allow: /tags/ 
 Allow: /games/ 
 Allow: /poems/ 
-Allow: /about/ 
+Allow: /about/
+
 Disallow: /vendors/
 
 Sitemap: http://blog.scarboroughcoral.top/sitemap.xml
