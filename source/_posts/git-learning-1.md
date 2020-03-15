@@ -235,9 +235,7 @@ $ git rebase --continue
 Successfully rebased and updated refs/heads/temp.
 ```
 
-### 0x06 如何比较当前HEAD和暂存区的差异
 
-## 总结
 
 ## Reference
 
